@@ -41,6 +41,7 @@ def BMIResult():
     print(f"I am {HeightInMeters}m tall, I weigh {WeightInKg}kg and my classfication is {BMIMo}.")
 
 
+# The first step is the program asking for your name.
 PangalanMo = AnoPangalanMo()
 
 EdadMo = AnongEdadMoNa()
