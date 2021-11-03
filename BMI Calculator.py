@@ -47,6 +47,7 @@ PangalanMo = AnoPangalanMo()
 # The second step is for you to provide your age.
 EdadMo = AnongEdadMoNa()
 
+# The third step now is providing your address. 
 SaanKaNakatira = SaanKaPoNakatira()
 
 HeightInMeters = GaanoKaKatangkad()
