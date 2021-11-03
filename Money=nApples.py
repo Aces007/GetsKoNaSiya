@@ -37,3 +37,4 @@ MagkanoLahatNgNagastosKo()
 
 # I did not insert any parameters in this program since it was not necessary.
 # Throughout the process of learning the fundamentals, I learned that 2 spaces between each line is a tradition.
+# Currently, I am still watching tutorial about loops. 
