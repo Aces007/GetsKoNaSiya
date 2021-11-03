@@ -44,6 +44,7 @@ def BMIResult():
 # The first step is the program asking for your name.
 PangalanMo = AnoPangalanMo()
 
+# The second step is for you to provide your age.
 EdadMo = AnongEdadMoNa()
 
 SaanKaNakatira = SaanKaPoNakatira()
