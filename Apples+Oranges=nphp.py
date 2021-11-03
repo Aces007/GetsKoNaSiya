@@ -1,3 +1,4 @@
+# I learned some of these from CJ Dojo.
 def MagkanoBaLahatNgOrange(x):
     OrangesFunc = int(input("Oranges you wish to buy?:" ))
     return x*OrangesFunc
