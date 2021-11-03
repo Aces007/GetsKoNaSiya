@@ -64,3 +64,13 @@ PakitaNaAngSummary = BioSummary()
 
 # The program will also provide you with your BMI classification.
 Results = BMIResult()
+
+
+# I tried this program initially on my youngest brother since we are trying to lower his weight so
+# we needed to know his BMI classification as a start. 
+# We found out that he is overweight hahahahaha lol.
+
+# When I was revising this program I could not push the changes through git bash so I got frustrated a little
+# I found out that changing the name of the file and pushing it again is a mistake but I was too late since 
+# I deleted the file on account of my frustration so I reverted my commits and recovered the file then
+# learned to use git reset --mixed origin/master so I could upload my file sucessfully.
