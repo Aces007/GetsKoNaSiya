@@ -29,7 +29,3 @@ MagkanoNaNgayon = MagkanoBaLahatNgPrutas()
 # Lastly, it will then present the total of the expenditures.
 PakitaAngTotalNgNabili()
 
-
-
-
-
