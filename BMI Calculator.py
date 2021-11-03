@@ -50,12 +50,17 @@ EdadMo = AnongEdadMoNa()
 # The third step now is providing your address. 
 SaanKaNakatira = SaanKaPoNakatira()
 
+# Now for the next step is providing your height in meters.
 HeightInMeters = GaanoKaKatangkad()
 
+# Then for the 5th step is you provide your weight in kg.
 WeightInKg = GaanoKaKabigat()
 
+# And then in orderly fashion the program will provide you your BMI results.
 BMIMo = WhatIsYourBMI()
 
+# This will summarize all the information you provided the program.
 PakitaNaAngSummary = BioSummary()
 
+# The program will also provide you with your BMI classification.
 Results = BMIResult()
